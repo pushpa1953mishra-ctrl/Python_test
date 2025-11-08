@@ -38,8 +38,8 @@ lst.remove(4)
 print(lst)
 
 #Use of pop to pop element at index
-lst.pop(2)
-
+ele=lst.pop(2)
+print("VM",ele)
 print(lst)
 
 #Use of del
